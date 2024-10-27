@@ -15,7 +15,7 @@ To generate the files from it, go to your project's main folder and run the comm
 This command is to create the brick from the repository that you previously cloned one folder above 
 the current project folder.
 
-2. `mason add example_feature --path ../bricks-private/mason_templates/bricks/example_feature`
+2. `mason add example_feature --path ../bricks-private/bricks/mason_templates/bricks/example_feature`
 
 This command is to create the brick from the repository directly, but you need to have access to it.
 `mason add example_feature --git-url https://github.com/CreoTech-Group/bricks --git-path mason_templates/bricks/example_feature`
